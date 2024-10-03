@@ -59,7 +59,7 @@ Use the workflow script from  [this repository](https://github.com/mehilshah/Lab
 -   Building the Java application with Maven
 -   Building and pushing a Docker image
 -   Pulling the Docker image on the VM
--   Starting the container
+-   Starting the container.
 
 ## 3. Verification of Deployment
 
